@@ -13,14 +13,24 @@ Later,
 
 
 The following technologies are used in the project,
-	*Spring Rest Microservices 
-	*Exception Handling - Returning Http codes
-	*Lombok
-	*Logging with Lombok
-	*Validators at Model Level
- 	*Junit and Mockito
- 	*PMD and Sonar
-	*Spring Security
-	*Spring Cloud
-	*Eureka
-	*H2 Database
+*Spring Rest Microservices 
+
+*Exception Handling - Returning Http codes
+
+*Lombok
+
+*Logging with Lombok
+
+*Validators at Model Level
+
+*Junit and Mockito
+
+*PMD and Sonar
+
+*Spring Security
+
+*Spring Cloud
+
+*Eureka
+
+*H2 Database
